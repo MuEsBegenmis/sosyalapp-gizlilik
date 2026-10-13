@@ -1,0 +1,1 @@
+# sosyalapp-gizlilik
